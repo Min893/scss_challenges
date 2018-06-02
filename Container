@@ -1,0 +1,5 @@
+$background-colors: #aaa, #bbb, #ccc, #ddd;
+$class: container;
+div. #{($class)} {
+background-color: #aaa;
+}
