@@ -1,0 +1,8 @@
+@mixin box($size $backgroundcolor){
+width: $size;
+height: $size;/2
+background-color: $color;
+}
+@if $size==200px {
+color: #bada55;
+}
