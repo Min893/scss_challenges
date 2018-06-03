@@ -1,0 +1,7 @@
+
+$class: cintainer
+&selector(listRight) hover{
+background-color: red
+}
+
+
